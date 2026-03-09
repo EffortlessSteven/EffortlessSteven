@@ -1,6 +1,6 @@
-# Steven Zimmerman
+# Steven Zimmerman, CPA
 
-CPA. Systems architect. Rust developer. Former portfolio CFO. Former Senior Editor at XDA.
+Systems architect. Rust developer. Former portfolio CFO. Former Senior Editor at XDA.
 
 I started writing Rust seriously in 2025. The repos have millions of lines in them because I run agentic swarms that produce governed, receipt-verified code while I review artifacts instead of babysitting chat windows. A developer who's shipped features through agent swarms doesn't go back to writing code by hand. Not because they can't. Because it's assembly now.
 
