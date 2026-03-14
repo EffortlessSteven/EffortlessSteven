@@ -1,6 +1,6 @@
-# Steven Zimmerman
+# Steven Zimmerman, CPA
 
-CPA. Systems architect. Rust developer. Former portfolio CFO. Former Senior Editor at XDA.
+Systems architect. Rust developer. Former portfolio CFO. Former Senior Editor at XDA.
 
 Developers moved past what the platforms are built for. The CI systems, the review tools, the pricing models, the merge infrastructure all assume a developer writing code in an editor. That's already the minority workflow for anyone running agents seriously. Nobody's modeling the economics, building the operating frameworks, or designing the infrastructure for what's actually happening.
 
