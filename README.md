@@ -10,7 +10,7 @@ A decade automating finance systems and ERPs in Python while running the departm
 
 **Verification tooling.** [ripr](https://github.com/EffortlessMetrics/ripr) (static mutation exposure), [unsafe-review](https://github.com/EffortlessMetrics/unsafe-review) (unsafe contract coverage), [cargo-allow](https://github.com/EffortlessMetrics/cargo-allow) (source exception ledger), [ub-review](https://github.com/EffortlessMetrics/ub-review) (targeted CI gate with review judgment).
 
-**Parser infrastructure.** [perl-lsp](https://github.com/EffortlessMetrics/perl-lsp): Perl 5 language server that parses Perl without running Perl. 925k lines of Rust. Shipped as a built-in in Red Hat's LSP4IJ for JetBrains and Eclipse. [tokmd](https://github.com/EffortlessMetrics/tokmd): code intelligence for humans, machines, and LLMs.
+**Parser infrastructure.** [perl-lsp](https://github.com/EffortlessMetrics/perl-lsp): Perl 5 language server that parses Perl without running Perl. 925k lines of Rust. Shipped as a built-in in Red Hat's LSP4IJ for JetBrains and Eclipse. [tokmd](https://github.com/EffortlessMetrics/tokmd): deterministic repository receipts, review artifacts, and CI gates.
 
 **Legacy and regulated data.** [COBOL copybooks](https://github.com/EffortlessMetrics/copybook-rs), [Outlook PST/OST](https://github.com/EffortlessMetrics/pst-rs), [healthcare HL7](https://github.com/EffortlessMetrics/hl7v2-rs).
 
